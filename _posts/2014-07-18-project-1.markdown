@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Metahistory
+subtitle: 491 Essays
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: metahistory.png
+thumbnail: metahistory.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Course website
+description: Collected historiographical essays from past classes to future ones.
 ---

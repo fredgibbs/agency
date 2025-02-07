@@ -24,7 +24,11 @@ p {
 }
 
 p.large {
-    font-size: 16px;
+    font-size: 2rem;
+    line-height: 3rem;
+    width:70%;
+    margin:auto;
+    text-align: justify;
 }
 
 a,
@@ -269,7 +273,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/my_header.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -325,7 +329,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 10rem 0;
 }
 
 section h2.section-heading {
@@ -345,7 +349,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 5rem 0;
     }
 }
 
@@ -640,6 +644,7 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height:250px;
 }
 
 .team-member h4 {
